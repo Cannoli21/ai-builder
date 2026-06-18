@@ -1,0 +1,1 @@
+{"compilerOptions":{"target":"ES2020","lib":["DOM","DOM.Iterable","ES2020"],"skipLibCheck":true,"strict":false,"module":"ESNext","moduleResolution":"Bundler","jsx":"react-jsx","ignoreDeprecations":"6.0"},"include":["src"]}
